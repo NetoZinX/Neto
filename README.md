@@ -8,15 +8,14 @@
 
 ```bash
 
-<p align="center"> > They Fear The NetoZinX !
+> They Fear The NetoZinX !
 
 ```
 
 ```csharp
 
-
-<p align="center"> Languages  :  C#
-<p align="center"> Developer  :  Aimbot External
+Languages  :  C#
+Developer  :  Aimbot External
 
 ```
 
