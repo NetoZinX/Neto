@@ -15,8 +15,8 @@
 ```csharp
 
 
-                                                    Languages  :  C#
-                                                    Developer  :  Aimbot External
+- <p align="center"> Languages  :  C#
+- <p align="center"> Developer  :  Aimbot External
 
 ```
 
