@@ -2,7 +2,7 @@
   <b>Hi 👋 , I'm NetoZinX</b><br>
   <a href="https://discord.gg/bHzDKduhHF">OnlyKills</a> |
   <a href="https://discord.gg/KnAjnSZ3ms">SuckGuard</a> |
-  <a href="https://github.com/NetoZinX">Web</a>
+  //<a href="https://github.com/NetoZinX">Web</a>
 
 
 
