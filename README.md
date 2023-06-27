@@ -20,7 +20,7 @@ Developer  :  Aimbot External
 ```
 
 ------------												
-- <p align="center"> Hi , I’m @NetoZinX
+- <p align="center"> Hi , I’m @Neto
 -----------------
 
 <!---
