@@ -1,5 +1,5 @@
 <p align='center'>
-  <b>Hi 👋 , I'm NetoZinX</b><br>
+  <b>Hi 👋 , I'm Neto</b><br>
   <a href="https://discord.gg/bHzDKduhHF">OnlyKills</a> |
   <a href="https://discord.gg/KnAjnSZ3ms">SuckGuard</a> |
   <a href="https://github.com/NetoZinX">Web</a>
@@ -8,7 +8,7 @@
 
 ```bash
 
-> They Fear The NetoZinX !
+> They Fear The Neto !
 
 ```
 
