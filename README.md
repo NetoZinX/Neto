@@ -1,7 +1,7 @@
 <p align='center'>
   <b>Hi 👋 , I'm Neto</b><br>
-  <a href="https://discord.gg/bHzDKduhHF">OnlyKills</a> |
-  <a href="https://discord.gg/KnAjnSZ3ms">SuckGuard</a> |
+  <a href="https://discord.gg/mr8T6ekcvx">OnlyKills</a> |
+  <a href="https://discord.gg/RGUvdaSwb4">SuckGuard</a> |
   <a href="https://github.com/NetoZinX">Web</a>
 
 
@@ -14,7 +14,7 @@
 
 ```csharp
 
-Languages  :  C#
+Languages  :  C# & C++
 Developer  :  Aimbot External
 
 ```
